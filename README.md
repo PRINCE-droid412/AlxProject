@@ -1,3 +1,4 @@
 # AlxProject
 Integrating git with github
-Remote Practicals
+Project 1
+
